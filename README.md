@@ -33,9 +33,12 @@ QA Documentation
 Diseño de casos de prueba, checklists, reportes de errores y documentación QA.
 
 Formación
+
 Bootcamp de Quality Assurance
+
 Formación complementaria en automatización de pruebas y herramientas QA
-Contacto
+
+Contacto:
 
 📧 matheus.96alves@gmail.com
 
