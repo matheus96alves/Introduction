@@ -6,7 +6,7 @@ Soy Analista QA Junior especializado en pruebas manuales y automatización de pr
 
 Actualmente busco oportunidades para seguir desarrollándome profesionalmente en el área de aseguramiento de calidad de software.
 
-Tecnologías y herramientas
+Tecnologías y herramientas:
 Python
 Selenium WebDriver
 Pytest
@@ -18,7 +18,7 @@ SQL
 Pruebas Manuales
 Pruebas de API
 
-Proyectos Destacados
+Proyectos destacados:
 
 Urban Routes
 
@@ -32,7 +32,7 @@ QA Documentation
 
 Diseño de casos de prueba, checklists, reportes de errores y documentación QA.
 
-Formación
+Formación:
 
 Bootcamp de Quality Assurance
 
