@@ -1,49 +1,93 @@
-¡Hola! Soy Matheus Alves Gonçalves 👋
+# 👋 ¡Hola! Soy Matheus Alves Gonçalves
 
-Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy Analista QA Junior especializado en pruebas manuales y automatización de pruebas. Recientemente completé un bootcamp de Quality Assurance donde desarrollé experiencia en diseño de casos de prueba, reporte de defectos, pruebas web, APIs y automatización con Python y Selenium.
+Soy **Analista QA Junior** especializado en **pruebas manuales** y **automatización de pruebas**.
 
-Actualmente busco oportunidades para seguir desarrollándome profesionalmente en el área de aseguramiento de calidad de software.
+Recientemente completé un **Bootcamp de Quality Assurance**, donde adquirí experiencia en:
 
-Tecnologías y herramientas:
-Python
-Selenium WebDriver
-Pytest
-Postman
-Git
-GitHub
-Jira
-SQL
-Pruebas Manuales
-Pruebas de API
+- ✅ Diseño de casos de prueba
+- ✅ Reporte y seguimiento de defectos
+- ✅ Pruebas funcionales
+- ✅ Pruebas de APIs
+- ✅ Automatización con Python, Selenium y Pytest
 
-Proyectos destacados:
+Actualmente busco oportunidades para seguir desarrollándome profesionalmente en el área de **Quality Assurance**.
 
-Urban Routes
+---
 
-Proyecto de automatización de pruebas utilizando Python, Selenium y Pytest.
+## 🛠️ Tecnologías y herramientas
 
-API Testing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-Pruebas funcionales y validación de endpoints REST mediante Postman y Python.
+---
 
-QA Documentation
+## 🚀 Proyectos destacados
 
-Diseño de casos de prueba, checklists, reportes de errores y documentación QA.
+### 🚖 Urban Routes
 
-Formación:
+Proyecto de automatización de pruebas utilizando:
 
-Bootcamp de Quality Assurance
+- Python
+- Selenium WebDriver
+- Pytest
 
-Formación complementaria en automatización de pruebas y herramientas QA
+---
 
-Contacto:
+### 🔗 API Testing
 
-📧 matheus.96alves@gmail.com
+Pruebas funcionales y validación de endpoints REST mediante:
 
-📱 +34 601 008 854
+- Postman
+- Python
 
-💼 LinkedIn: https://www.linkedin.com/in/matheus-alves-goncalves/
+---
 
-Gracias por visitar mi perfil.
+### 📋 QA Documentation
+
+Elaboración de:
+
+- Casos de prueba
+- Checklists
+- Reportes de errores
+- Documentación QA
+
+---
+
+## 🎓 Formación
+
+**Bootcamp de Quality Assurance**
+
+Especialización en:
+
+- Testing Manual
+- Automatización de pruebas
+- Selenium
+- Python
+- SQL
+- Git y GitHub
+- Testing de APIs
+
+---
+
+## 📫 Contacto
+
+📧 **Email:**  
+matheus.96alves@gmail.com
+
+📱 **Teléfono:**  
++34 601 008 854
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/matheus-alves-goncalves/
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
